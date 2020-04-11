@@ -2,7 +2,13 @@ print("PayPal Valid Email Checker")
 import requests
 live = open('PayPalLive.txt', 'w')
 die = open('PayPalDie.txt', 'w')
-Checked = "Checked by Thanos Valid Email Checker"
+print ('''      _                                                          _ _        _               _             
+    / \   _ __ ___   __ _ _______  _ __     ___ _ __ ___   __ _(_) |   ___| |__   ___  ___| | _____ _ __ 
+   / _ \ | '_ ` _ \ / _` |_  / _ \| '_ \   / _ \ '_ ` _ \ / _` | | |  / __| '_ \ / _ \/ __| |/ / _ \ '__|
+  / ___ \| | | | | | (_| |/ / (_) | | | | |  __/ | | | | | (_| | | | | (__| | | |  __/ (__|   <  __/ |   
+ /_/   \_\_| |_| |_|\__,_/___\___/|_| |_|  \___|_| |_| |_|\__,_|_|_|  \___|_| |_|\___|\___|_|\_\___|_|   
+                                                                                                         ''')
+Checked = ""
 print("_"*50)
 print"PayPal Valid Email Checker"
 print"I dont't Accept any Responsibility for any illegal usage!"
